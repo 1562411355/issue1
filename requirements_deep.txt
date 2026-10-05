@@ -1,0 +1,5 @@
+# Deep baselines (TranAD / USAD) — added for v0.10
+# source: https://github.com/imperial-qore/TranAD
+#         https://github.com/manigalati/usad
+torch==2.14.1+cpu
+numpy>=1.24

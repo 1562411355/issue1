@@ -1,0 +1,30 @@
+# Datasets — not redistributed
+data/raw/
+data/skab/
+data/smd/
+data/msl/
+*.npz
+*.pkl
+*.pt
+*.pth
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local run artifacts
+results/*.log
+results/*.err
+results/rpi_latency.csv
+analysis/_*.py
+submission/
+verify/*.rar
+
+# OS / editor
+.DS_Store
+.idea/
+.vs/
